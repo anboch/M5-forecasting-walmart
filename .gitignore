@@ -1,0 +1,15 @@
+
+*.csv
+*.parquet
+*.zip
+*.gz
+
+/data
+/checkpoints_validation
+/checkpoints_evaluation
+/train_features
+
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+*.pyc
